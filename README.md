@@ -1,5 +1,4 @@
 # T20 Cricket Innings Analysis (India vs USA)
-![Alt text](https://github.com/Khushi-Bafana/T20-World-Cup-Statistics-and-Predictive-Analysis/blob/main/T20%20analysis%20image%20for%20github.jpg)
 
 ## Project Overview
 This project analyzes ball-by-ball data from a T20 cricket match between India and the USA. The objective is to derive meaningful insights from batting, bowling, and over-wise trends using **Exploratory Data Analysis (EDA)**.
